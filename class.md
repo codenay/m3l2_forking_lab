@@ -1,3 +1,3 @@
 Ebenezer Awuku
 
-Meta Frontend Development
+Meta frontend development
